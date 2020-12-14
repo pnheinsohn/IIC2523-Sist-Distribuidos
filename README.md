@@ -1,4 +1,4 @@
-# [IIC2523] Estructura de Datos y Algoritmos del DCC [PUC]
+# [IIC2523] Sistemas Distribuidos del DCC [PUC]
 ## Año (Semestre)
 2do semestre 2020
 
